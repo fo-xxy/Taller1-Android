@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CambioColores-Android</string>
+    <!--1: Despues de poner los botones, vamos areferir los mismo desde este apartado -->
+    <string name="btn1">Fucsia</string>
+    <string name="btn2">Azul</string>
+    <string name="btn3">Verde</string>
+    <string name="btn4">Naranja</string>
+    <!--2: Nos vamos al diseño y a cada boton lo conectaremos con este archivo, o sea el archivo string desde el text, y seguido nos vamos a la clase-->
+
+    <!--Extra-->
+    <string name="btn5">Imagen 1</string>
+    <string name="btn6">Imagen 2</string>
+    <string name="btn7">Imagen 3</string>
+    <string name="btn8">Imagen 4</string>
+    <string name="btnsalir">S</string>
+</resources>
